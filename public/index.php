@@ -18,6 +18,7 @@ define("DATABASE","mvcdb");
 define("DATABASE_TYPE","mysql");
 define("DOMAIN_NAME","http://mvc.test/");
 
+
 require_once('../vendor/autoload.php');
 
 $app=new MVC\core\app();
